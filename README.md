@@ -8,7 +8,7 @@ Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fat
 Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
 
 
-### Selecting brainstorming background
+### Selecting background for brainstorm session
 
 Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
 
