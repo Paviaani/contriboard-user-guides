@@ -8,9 +8,18 @@ Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fat
 Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
 
 
-### Selecting background for brainstorm session
+### Selecting background for the selected board
 
-Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
+You should use Edit board dialog to set background. You will find it from both workspace view and board view!
+
+From Workspace:
+
+![](https://www.dropbox.com/s/cz6mjo2dxx5k9b2/EditBoard.jpg?dl=1)
+
+
+From the Board view:
+
+![](https://www.dropbox.com/s/kxb7d30jze5nk2g/EditBoardTool.jpg?dl=1)
 
 ### Create, Move, Modify and delete Ticket
 
