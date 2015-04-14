@@ -15,7 +15,7 @@ Welcome to use Contriboard collaboration tool! This guide is under heavy work.. 
 
 You can create new board from Workspace view
 
-![](https://www.dropbox.com/s/cz6mjo2dxx5k9b2/EditBoard.jpg?dl=1)
+![](https://www.dropbox.com/s/003hzylkidiwrm8/CreateNewBoard.jpg?dl=1)
 
 
 Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
