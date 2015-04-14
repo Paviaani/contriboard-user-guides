@@ -36,7 +36,7 @@ From the Board view:
 
 Select Background using edit board dialog:
 
-![](https://www.dropbox.com/s/l6vtl6sa7khs9ty/EditDialog.jpg?dl=1)
+![](https://www.dropbox.com/s/s88312b96xitlz8/SelectBackground.jpg?dl=1)
 
 
 
