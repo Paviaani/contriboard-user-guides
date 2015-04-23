@@ -1,63 +1,92 @@
-# contriboard-user-guides
+# Contriboard User Manual
 
-Welcome to use Contriboard collaboration tool! This guide is under heavy work.. It will be updated as work progress. Current user interface has been under heavy changes, so we have been quite silent :)
+## Key Concepts
 
-### Architecture of Contriboard Service
+### Board
+Board is a collaborative space, where users and invited guests can create, edit
+and remove tickets. Boards can be created by users, who can then share the
+Board to invite other people as guests.
 
-  * Workspace view
-  * Board view 
-  * Ticket view
-  * 
+	TODO Screenshot of a Board, in both BoardPreview & the BoardView itself.
 
+### Ticket
+Tickets are simple "Post-it" type elements, which can be created by both users
+and the guests that have access to the board. Tickets have content and color,
+they can be moved around the Board freely.
 
+	TODO Screenshot of a ticket.
 
-### Creation, Modify and Delete the board
+## View specific instructions
 
-You can create new board from Workspace view
+### Topbar
+You can leave feedback for the team by clicking on the User icon visible in the
+topbar. Clicking the User icon will show a menu, where the User can leave
+feedback via the `Feedback` option. Clicking on the `Feedback` option will show
+a the integrated UserVoice widget. The feedback is processed by UserVoice and
+sent to the team.
+
+	TODO Add screenshot of leaving feedback
+
+You can see some other options besides feedback in the menu opened by clicking
+on the User icon. Some of the options may be greyed out, which means they are
+not currently available. Logging out of the application is done by clicking on
+the `Logout` option.
+
+	TODO Add a screenshot of logging out
+
+### Workspace
+Workspace is the view the user will first see when he or she logs in to the
+service. Here it is possible to create, manage and remove Boards.
 
 ![](https://www.dropbox.com/s/003hzylkidiwrm8/CreateNewBoard.jpg?dl=1)
+> Clicking on the plus will create a Board.
 
-
-Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
-
-
-### Selecting background for the selected board
-
-You should use Edit board dialog to set background. You will find it from both workspace view and board view!
-
-From Workspace:
+Once you've created a Board, editing and removing it can be done by clicking on
+either the Pencil or the Trashcan icons. Clicking on these icons will prompt
+the user with a Dialog.
 
 ![](https://www.dropbox.com/s/cz6mjo2dxx5k9b2/EditBoard.jpg?dl=1)
+> Clicking on this icon will open the editing view.
 
+Currently you can only edit the name and background image of the Board. However
+you can also generate (and hide) a Shared URL for the Board, which can then be
+used to publicly share the board to other people. The board is also exportable
+in CSV and JSON formats.
 
-From the Board view:
+	TODO Add screenshots of editing the Board here
 
-![](https://www.dropbox.com/s/kxb7d30jze5nk2g/EditBoardTool.jpg?dl=1)
-
-Select Background using edit board dialog:
+You can change the Background the of Board to one of the premade backgrounds,
+or a custom one if you wish. You can change the Board's Background image to a
+custom one by selecting `Custom` and then entering the address (URL) of the
+image you wish to use.
 
 ![](https://www.dropbox.com/s/s88312b96xitlz8/SelectBackground.jpg?dl=1)
+> Changing the Background image
 
+Sharing the board happens by clicking on the Share button in the editing view.
+Clicking on the Share button will generate a URL that is can be copied from the
+box it appears in. If the board is shared, the Share button will turn into a
+Hide button instead. Clicking that button will make sure no one else is able to
+do anything on the Board anymore.
 
+	TODO Add screenshots of sharing the Board here
 
-### Create, Move, Modify and delete Ticket
+### Board
+By clicking on a Board in the Workspace, the user will be shown a more detailed
+view of the Board. Here the user can create, move, edit and remove tickets.
 
-Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
+In this view, editing the board is done by clicking on the same Pencil icon
+found in the Workspace. Clicking on the Back arrow, will take the user back to
+Workspace.
 
+![](https://www.dropbox.com/s/kxb7d30jze5nk2g/EditBoardTool.jpg?dl=1)
+> Opening the editing view from inside the Board
 
-### Sharing a board to other
+The user can create a ticket by doubleclicking on the board. Editing the ticket
+will similarly happen by doubleclicking the ticket itself. Removing the ticket
+is done via the dialog opened by doubleclicking the ticket.
 
-Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
-Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
+Changing the color of the ticket is done by doubleclicking on the ticket in
+order to open the editing view, and then selecting the color from the top.
 
-### Managing multiple boards
-Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
-
-### User Account Settings
-
-Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
-
-### Giving Feedback to Development
-
-Bacon ipsum dolor amet tail pig shankle, turkey sirloin picanha filet mignon fatback ball tip leberkas t-bone kevin tongue pork. Hamburger pork chop shoulder tenderloin salami, bacon jerky pork loin beef ribs. Drumstick pastrami capicola turkey. Capicola shankle jowl boudin flank.
-
+	TODO Add screenshot of editing the ticket here.
