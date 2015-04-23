@@ -7,7 +7,17 @@ Board is a collaborative space, where users and invited guests can create, edit
 and remove tickets. Boards can be created by users, who can then share the
 Board to invite other people as guests.
 
+
+
+![](https://www.dropbox.com/s/dpmg7a0qng6hlba/SimpleBoard.jpg?dl=1)
+
+Empty board after creation
+
+
+
 	TODO Screenshot of a Board, in both BoardPreview & the BoardView itself.
+	
+	
 
 ### Ticket
 Tickets are simple "Post-it" type elements, which can be created by both users
