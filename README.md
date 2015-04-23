@@ -2,6 +2,13 @@
 
 ## Key Concepts
 
+### Workspace
+Workspace is the view the user will first see when he or she logs in to the
+service. Here it is possible to create, manage and remove Boards.
+
+![](https://www.dropbox.com/s/003hzylkidiwrm8/CreateNewBoard.jpg?dl=1)
+> Clicking on the plus will create a Board.
+
 ### Board
 Board is a collaborative space, where users and invited guests can create, edit
 and remove tickets. Boards can be created by users, who can then share the
@@ -47,12 +54,7 @@ the `Logout` option.
 
 	TODO Add a screenshot of logging out
 
-### Workspace
-Workspace is the view the user will first see when he or she logs in to the
-service. Here it is possible to create, manage and remove Boards.
 
-![](https://www.dropbox.com/s/003hzylkidiwrm8/CreateNewBoard.jpg?dl=1)
-> Clicking on the plus will create a Board.
 
 Once you've created a Board, editing and removing it can be done by clicking on
 either the Pencil or the Trashcan icons. Clicking on these icons will prompt
