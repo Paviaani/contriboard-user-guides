@@ -45,7 +45,7 @@ Tickets are simple "Post-it" type elements, which can be created by both users
 and the guests that have access to the board. Tickets have content and color,
 they can be moved around the Board freel.
 
-![](https://www.dropbox.com/s/o3uj0aziivmtmxb/ExamplesOfTicket.jpg?dl=0)
+![](https://www.dropbox.com/s/o3uj0aziivmtmxb/ExamplesOfTicket.jpg?dl=1)
 
 Group of tickets on the board
 
