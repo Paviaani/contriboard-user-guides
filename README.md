@@ -22,9 +22,12 @@ Empty board after creation
 ### Ticket
 Tickets are simple "Post-it" type elements, which can be created by both users
 and the guests that have access to the board. Tickets have content and color,
-they can be moved around the Board freely.
+they can be moved around the Board freel.
 
-	TODO Screenshot of a ticket.
+![](https://www.dropbox.com/s/o3uj0aziivmtmxb/ExamplesOfTicket.jpg?dl=0)
+
+Group of tickets on the board
+
 
 ## View specific instructions
 
