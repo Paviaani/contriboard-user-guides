@@ -2,12 +2,26 @@
 
 ## Key Concepts
 
+### User Roles
+
+
+  * User
+  * Guest User
+  * Administrator
+
+
 ### Workspace
 Workspace is the view the user will first see when he or she logs in to the
 service. Here it is possible to create, manage and remove Boards.
 
 ![](https://www.dropbox.com/s/003hzylkidiwrm8/CreateNewBoard.jpg?dl=1)
 > Clicking on the plus will create a Board.
+
+If you have already created boards you will see them listed like picture below.
+
+![](https://www.dropbox.com/s/8cgh49ujkt98eqt/MultipleBoardsInWorkspace.jpg?dl=1);
+> User has several board already created. 
+
 
 ### Board
 Board is a collaborative space, where users and invited guests can create, edit
