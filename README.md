@@ -52,18 +52,32 @@ Group of tickets on the board
 
 ## View specific instructions
 
-### Topbar
-You can leave feedback for the team by clicking on the User icon visible in the
+### Topbar User Profile 
+
+
+As a guest user you can change you nick by using profile setting. (NOT IMPLEMENTED YET)
+
+
+### Topbar - User Feedback
+
+
+As a user and guest You can leave feedback for the team by clicking on the User icon visible in the
 topbar. Clicking the User icon will show a menu, where the User can leave
 feedback via the `Feedback` option. Clicking on the `Feedback` option will show
 a the integrated UserVoice widget. The feedback is processed by UserVoice and
 sent to the team.
 
+
 ![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback.jpg?dl=1)
+Icon is found from top bar area right corner of the board.
+
 
 ![](https://www.dropbox.com/s/f35rs7twp5ti3uq/GiveFeedback2.jpg?dl=1)
+When you select "Feedback" item you should wait couple of seconds..
 
 ![](https://www.dropbox.com/s/mud6sk43e025nte/GiveFeedback3.jpg?dl=1)
+Feedback dialog will open after couple of seconds..
+
 
 
 	TODO Add screenshot of leaving feedback
