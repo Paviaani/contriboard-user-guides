@@ -35,6 +35,11 @@ Board to invite other people as guests.
 Empty board after creation
 
 
+![)(https://www.dropbox.com/s/zckvon0z6ifdjc7/boardontherun.jpb?dl=1)
+
+Board in use with background
+
+
 
 	TODO Screenshot of a Board, in both BoardPreview & the BoardView itself.
 
