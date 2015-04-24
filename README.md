@@ -59,6 +59,13 @@ feedback via the `Feedback` option. Clicking on the `Feedback` option will show
 a the integrated UserVoice widget. The feedback is processed by UserVoice and
 sent to the team.
 
+![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback.jpg?dl=1)
+
+![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback2.jpg?dl=1)
+
+![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback3.jpg?dl=1)
+
+
 	TODO Add screenshot of leaving feedback
 
 You can see some other options besides feedback in the menu opened by clicking
