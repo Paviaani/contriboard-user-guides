@@ -37,7 +37,25 @@ Empty board after creation
 
 
 	TODO Screenshot of a Board, in both BoardPreview & the BoardView itself.
-	
+
+## Sharing Board top guests
+
+As a registered user of contriboard can you share your board to guest members by using board edit dialog.
+Open first dialog in board view.  
+
+![](https://www.dropbox.com/s/o53n8gbzre79eh9/ShareBoard.jpg?dl=1)
+
+You can see Share button. You can now press it and contriboard service will create you invitation link to the board
+
+![)(https://www.dropbox.com/s/w3uv1nhwiozciga/ShareLink.jpg?dl=1)
+
+You should copy this link and send it via email or chat to all workshop memebers..
+DO not copy link directly from browser page!
+
+
+
+
+
 	
 
 ### Ticket
