@@ -61,9 +61,9 @@ sent to the team.
 
 ![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback.jpg?dl=1)
 
-![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback2.jpg?dl=1)
+![](https://www.dropbox.com/s/f35rs7twp5ti3uq/GiveFeedback2.jpg?dl=1)
 
-![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback3.jpg?dl=1)
+![](https://www.dropbox.com/s/mud6sk43e025nte/GiveFeedback3.jpg?dl=1)
 
 
 	TODO Add screenshot of leaving feedback
