@@ -57,6 +57,14 @@ Group of tickets on the board
 
 As a guest user you can change you nick by using profile setting. (NOT IMPLEMENTED YET)
 
+### Topbar Logout  
+
+You can see some other options besides feedback in the menu opened by clicking
+on the User icon. Some of the options may be greyed out, which means they are
+not currently available. Logging out of the application is done by clicking on
+the `Logout` option.
+
+![](https://www.dropbox.com/s/sgpj31i72n8ya0s/Logout.jpg?dl=1)
 
 ### Topbar - User Feedback
 
@@ -79,14 +87,6 @@ When you select "Feedback" item you should wait couple of seconds..
 After couple seconds you should see message box. Fill your comments in and press next
 
 
-	TODO Add screenshot of leaving feedback
-
-You can see some other options besides feedback in the menu opened by clicking
-on the User icon. Some of the options may be greyed out, which means they are
-not currently available. Logging out of the application is done by clicking on
-the `Logout` option.
-
-	TODO Add a screenshot of logging out
 
 
 
