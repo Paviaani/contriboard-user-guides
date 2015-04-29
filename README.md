@@ -35,7 +35,7 @@ Board to invite other people as guests.
 Empty board after creation
 
 
-![)(https://www.dropbox.com/s/zckvon0z6ifdjc7/boardontherun.jpb?dl=1)
+![](https://www.dropbox.com/s/zckvon0z6ifdjc7/boardontherun.jpb?dl=1)
 
 Board in use with background
 
@@ -52,7 +52,7 @@ Open first dialog in board view.
 
 You can see Share button. You can now press it and contriboard service will create you invitation link to the board
 
-![)(https://www.dropbox.com/s/w3uv1nhwiozciga/ShareLink.jpg?dl=1)
+![](https://www.dropbox.com/s/w3uv1nhwiozciga/ShareLink.jpg?dl=1)
 
 You should copy this link and send it via email or chat to all workshop memebers..
 DO not copy link directly from browser page!
