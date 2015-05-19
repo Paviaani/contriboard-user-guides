@@ -45,10 +45,9 @@ Board in use with background
 
 ## Sharing Board top guests
 
-As a registered user of contriboard can you share your board to guest members by using board edit dialog.
-Open first dialog in board view.  
+As a registered user of contriboard can you share your board to guest members by using board share dialog inside a board. Click the share icon (Ball that duplicates into two) to open it.
 
-![](https://www.dropbox.com/s/o53n8gbzre79eh9/ShareBoard.jpg?dl=1)
+![](http://i.imgur.com/KIOTA5q.png)
 
 You can see Share button. You can now press it and contriboard service will create you invitation link to the board
 
