@@ -30,10 +30,9 @@ Board to invite other people as guests.
 
 
 
-![](https://www.dropbox.com/s/dpmg7a0qng6hlba/SimpleBoard.jpg?dl=1)
+![](http://i.imgur.com/vSUBQUb.png)
 
 Empty board after creation
-
 
 ![](https://www.dropbox.com/s/zckvon0z6ifdjc7/boardontherun.jpb?dl=1)
 
