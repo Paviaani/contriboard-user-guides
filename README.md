@@ -51,16 +51,12 @@ As a registered user of contriboard can you share your board to guest members by
 
 You can see Share button. You can now press it and contriboard service will create you invitation link to the board
 
-![](https://www.dropbox.com/s/w3uv1nhwiozciga/ShareLink.jpg?dl=1)
 
-You should copy this link and send it via email or chat to all workshop memebers..
-DO not copy link directly from browser page!
+## Exporting the tickets of a board
+To export the tickets in the board, click the "download" icon inside the board you want to export (the one with the box and the arrow pointing down). This opens up the Export board dialog. Choose the format you want to download from the dropdown on the left, and click the "Export" button on the right once you're done.
 
+![](http://i.imgur.com/LLSipMg.png)
 
-
-
-
-	
 
 ### Ticket
 Tickets are simple "Post-it" type elements, which can be created by both users
