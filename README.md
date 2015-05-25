@@ -131,13 +131,6 @@ inputs on the bottom. The sizes are measured in tickets.
 ![](https://www.dropbox.com/s/s88312b96xitlz8/SelectBackground.jpg?dl=1)
 > Changing the Background image
 
-Sharing the board happens by clicking on the Share button in the editing view.
-Clicking on the Share button will generate a URL that is can be copied from the
-box it appears in. If the board is shared, the Share button will turn into a
-Hide button instead. Clicking that button will make sure no one else is able to
-do anything on the Board anymore.
-
-	TODO Add screenshots of sharing the Board here
 
 ### Board
 By clicking on a Board in the Workspace, the user will be shown a more detailed
