@@ -56,7 +56,6 @@ To export the tickets in the board, click the "download" icon inside the board y
 
 ![](http://i.imgur.com/LLSipMg.png)
 
-
 ### Ticket
 Tickets are simple "Post-it" type elements, which can be created by both users
 and the guests that have access to the board. Tickets have content and color,
@@ -94,13 +93,19 @@ sent to the team.
 
 
 ![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback.jpg?dl=1)
+
+
 Icon is found from top bar area right corner of the board.
 
 
 ![](https://www.dropbox.com/s/f35rs7twp5ti3uq/GiveFeedback2.jpg?dl=1)
+
+
 When you select "Feedback" item you should wait couple of seconds..
 
 ![](https://www.dropbox.com/s/b3bd9b9tcahakvj/GiveFeedback4.jpg?dl=1)
+
+
 After couple seconds you should see message box. Fill your comments in and press next
 
 
@@ -114,28 +119,18 @@ the user with a Dialog.
 ![](https://www.dropbox.com/s/cz6mjo2dxx5k9b2/EditBoard.jpg?dl=1)
 > Clicking on this icon will open the editing view.
 
-Currently you can only edit the name and background image of the Board. However
-you can also generate (and hide) a Shared URL for the Board, which can then be
-used to publicly share the board to other people. The board is also exportable
-in CSV and JSON formats.
-
-	TODO Add screenshots of editing the Board here
+Currently you can  edit the name, size and background image of the Board.
+![Imgur](http://i.imgur.com/7jxyZsS.png)
 
 You can change the Background the of Board to one of the premade backgrounds,
 or a custom one if you wish. You can change the Board's Background image to a
 custom one by selecting `Custom` and then entering the address (URL) of the
-image you wish to use.
+image you wish to use. You can change the size of the board with the two text 
+inputs on the bottom. The sizes are measured in tickets.
 
 ![](https://www.dropbox.com/s/s88312b96xitlz8/SelectBackground.jpg?dl=1)
 > Changing the Background image
 
-Sharing the board happens by clicking on the Share button in the editing view.
-Clicking on the Share button will generate a URL that is can be copied from the
-box it appears in. If the board is shared, the Share button will turn into a
-Hide button instead. Clicking that button will make sure no one else is able to
-do anything on the Board anymore.
-
-	TODO Add screenshots of sharing the Board here
 
 ### Board
 By clicking on a Board in the Workspace, the user will be shown a more detailed
