@@ -114,8 +114,7 @@ the user with a Dialog.
 > Clicking on this icon will open the editing view.
 
 Currently you can  edit the name, size and background image of the Board.
-
-![](http://i.imgur.com/ippcyGD.png)
+![Imgur](http://i.imgur.com/z6c9t8c.png)
 
 You can change the Background the of Board to one of the premade backgrounds,
 or a custom one if you wish. You can change the Board's Background image to a
