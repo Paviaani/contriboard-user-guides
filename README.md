@@ -93,13 +93,19 @@ sent to the team.
 
 
 ![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback.jpg?dl=1)
+
+
 Icon is found from top bar area right corner of the board.
 
 
 ![](https://www.dropbox.com/s/f35rs7twp5ti3uq/GiveFeedback2.jpg?dl=1)
+
+
 When you select "Feedback" item you should wait couple of seconds..
 
 ![](https://www.dropbox.com/s/b3bd9b9tcahakvj/GiveFeedback4.jpg?dl=1)
+
+
 After couple seconds you should see message box. Fill your comments in and press next
 
 
