@@ -116,7 +116,7 @@ the user with a Dialog.
 
 Currently you can  edit the name, size and background image of the Board.
 
-![](http://i.imgur.com/7jxyZsS.png)
+![](http://i.imgur.com/ippcyGD.png)
 
 You can change the Background the of Board to one of the premade backgrounds,
 or a custom one if you wish. You can change the Board's Background image to a
