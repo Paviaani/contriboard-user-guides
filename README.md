@@ -114,17 +114,15 @@ the user with a Dialog.
 ![](https://www.dropbox.com/s/cz6mjo2dxx5k9b2/EditBoard.jpg?dl=1)
 > Clicking on this icon will open the editing view.
 
-Currently you can only edit the name and background image of the Board. However
-you can also generate (and hide) a Shared URL for the Board, which can then be
-used to publicly share the board to other people. The board is also exportable
-in CSV and JSON formats.
+Currently you can  edit the name, size and background image of the Board.
 
-	TODO Add screenshots of editing the Board here
+![](http://i.imgur.com/7jxyZsS.png)
 
 You can change the Background the of Board to one of the premade backgrounds,
 or a custom one if you wish. You can change the Board's Background image to a
 custom one by selecting `Custom` and then entering the address (URL) of the
-image you wish to use.
+image you wish to use. You can change the size of the board with the two text 
+inputs on the bottom. The sizes are measured in tickets.
 
 ![](https://www.dropbox.com/s/s88312b96xitlz8/SelectBackground.jpg?dl=1)
 > Changing the Background image
