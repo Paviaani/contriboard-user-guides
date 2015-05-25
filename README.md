@@ -54,7 +54,7 @@ You can see Share button. You can now press it and contriboard service will crea
 ## Exporting the tickets of a board
 To export the tickets in the board, click the "download" icon inside the board you want to export (the one with the box and the arrow pointing down). This opens up the Export board dialog. Choose the format you want to download from the dropdown on the left, and click the "Export" button on the right once you're done.
 
-![asd](http://i.imgur.com/LLSipMg.png)
+![](http://i.imgur.com/LLSipMg.png)
 
 ### Ticket
 Tickets are simple "Post-it" type elements, which can be created by both users
