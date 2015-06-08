@@ -151,3 +151,16 @@ Changing the color of the ticket is done by doubleclicking on the ticket in
 order to open the editing view, and then selecting the color from the top.
 
 	TODO Add screenshot of editing the ticket here.
+
+### Help layer
+In the upper right corner of the application is an Info icon. Clicking it will open
+the Help layer containing a set of informative slides. Also, when visiting for 
+the first time, the icon is animated until clicked.
+
+![](http://i.imgur.com/CnqZQcm.png)
+
+The Help layer will explain the main functionalities of the application. The slides can
+be scrolled either by swiping or clicking on the round indicator buttons at the bottom of the view.
+
+![](http://i.imgur.com/gNuzWbH.png)
+
