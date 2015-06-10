@@ -65,7 +65,7 @@ they can be moved around the Board freel.
 
 Group of tickets on the board
 
-## Markdown
+#### Markdown
 
 Ticket content supports formatting in markdown for links, images, lists, bold, italicized and such.
 
