@@ -71,6 +71,11 @@ Ticket content supports formatting in markdown for links, images, lists, bold, i
 
 See the following cheat sheet for more specific [examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+
+![](http://i.imgur.com/RFz5yDM.png)
+
+Example of tickets formatted with markdown
+
 ## View specific instructions
 
 ### Topbar User Profile 
