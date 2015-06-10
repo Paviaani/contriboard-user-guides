@@ -65,6 +65,11 @@ they can be moved around the Board freel.
 
 Group of tickets on the board
 
+## Markdown
+
+Ticket content supports formatting in markdown for links, images, lists, bold, italicized and such.
+
+See the following cheat sheet for more specific [examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## View specific instructions
 
