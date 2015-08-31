@@ -19,7 +19,7 @@ service. Here it is possible to create, manage and remove Boards.
 
 If you have already created boards you will see them listed like picture below.
 
-![](/pictures/workspace.png);
+![](/pictures/createboard.png)
 > User has several board already created. 
 
 
@@ -30,7 +30,7 @@ Board to invite other people as guests.
 
 
 
-![](/pictures/boardview)
+![](/pictures/boardview.png)
 
 Empty board after creation
 
@@ -72,7 +72,7 @@ Ticket content supports formatting in markdown for links, images, lists, bold, i
 See the following cheat sheet for more specific [examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-![](/pictures/editedticket.png)
+![](/pictures/markdownticket.png)
 
 Example of tickets formatted with markdown
 
@@ -90,7 +90,7 @@ on the User icon. Some of the options may be greyed out, which means they are
 not currently available. Logging out of the application is done by clicking on
 the `Logout` option.
 
-![](https://www.dropbox.com/s/sgpj31i72n8ya0s/Logout.jpg?dl=1)
+![](/pictures/settingdropown.png)
 
 ### Topbar - User Feedback
 
@@ -102,18 +102,15 @@ a the integrated UserVoice widget. The feedback is processed by UserVoice and
 sent to the team.
 
 
-![](https://www.dropbox.com/s/64rfqfxdazxw2ks/GiveFeedback.jpg?dl=1)
-
-
 Icon is found from top bar area right corner of the board.
 
 
-![](https://www.dropbox.com/s/f35rs7twp5ti3uq/GiveFeedback2.jpg?dl=1)
+![](/pictures/settingdropown.png)
 
 
 When you select "Feedback" item you should wait couple of seconds..
 
-![](https://www.dropbox.com/s/b3bd9b9tcahakvj/GiveFeedback4.jpg?dl=1)
+![](/pictures/feedbackdialog.png)
 
 
 After couple seconds you should see message box. Fill your comments in and press next
@@ -130,7 +127,6 @@ the user with a Dialog.
 > Clicking on this icon will open the editing view.
 
 Currently you can  edit the name, size and background image of the Board.
-![Imgur](http://i.imgur.com/7jxyZsS.png)
 
 You can change the Background the of Board to one of the premade backgrounds,
 or a custom one if you wish. You can change the Board's Background image to a
@@ -138,7 +134,7 @@ custom one by selecting `Custom` and then entering the address (URL) of the
 image you wish to use. You can change the size of the board with the two text 
 inputs on the bottom. The sizes are measured in tickets.
 
-![](https://www.dropbox.com/s/s88312b96xitlz8/SelectBackground.jpg?dl=1)
+![](/pictures/boardeditdialog.png)
 > Changing the Background image
 
 
@@ -150,7 +146,7 @@ In this view, editing the board is done by clicking on the same Pencil icon
 found in the Workspace. Clicking on the Back arrow, will take the user back to
 Workspace.
 
-![](https://www.dropbox.com/s/kxb7d30jze5nk2g/EditBoardTool.jpg?dl=1)
+![](/pictures/minimap.png)
 > Opening the editing view from inside the Board
 
 The user can create a ticket by doubleclicking on the board. Editing the ticket
@@ -167,10 +163,8 @@ In the upper right corner of the application is an Info icon. Clicking it will o
 the Help layer containing a set of informative slides. Also, when visiting for 
 the first time, the icon is animated until clicked.
 
-![](http://i.imgur.com/CnqZQcm.png)
-
 The Help layer will explain the main functionalities of the application. The slides can
 be scrolled either by swiping or clicking on the round indicator buttons at the bottom of the view.
 
-![](http://i.imgur.com/gNuzWbH.png)
+![](/pictures/helpscreen.png)
 
