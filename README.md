@@ -14,12 +14,12 @@
 Workspace is the view the user will first see when he or she logs in to the
 service. Here it is possible to create, manage and remove Boards.
 
-![](https://www.dropbox.com/s/003hzylkidiwrm8/CreateNewBoard.jpg?dl=1)
+![](/pictures/workspace.png)
 > Clicking on the plus will create a Board.
 
 If you have already created boards you will see them listed like picture below.
 
-![](https://www.dropbox.com/s/8cgh49ujkt98eqt/MultipleBoardsInWorkspace.jpg?dl=1);
+![](/pictures/workspace.png);
 > User has several board already created. 
 
 
@@ -30,7 +30,7 @@ Board to invite other people as guests.
 
 
 
-![](http://i.imgur.com/vSUBQUb.png)
+![](/pictures/boardview)
 
 Empty board after creation
 
@@ -46,7 +46,7 @@ Board in use with background
 
 As a registered user of contriboard can you share your board to guest members by using board share dialog inside a board. Click the share icon (Ball that duplicates into two) to open it.
 
-![](http://i.imgur.com/mOBIoZA.png)
+![](/pictures/sharedialog.png)
 
 You can see Share button. You can now press it and contriboard service will create you invitation link to the board
 
@@ -54,14 +54,14 @@ You can see Share button. You can now press it and contriboard service will crea
 ## Exporting the tickets of a board
 To export the tickets in the board, click the "download" icon inside the board you want to export (the one with the box and the arrow pointing down). This opens up the Export board dialog. Choose the format you want to download from the dropdown on the left, and click the "Export" button on the right once you're done.
 
-![](http://i.imgur.com/LLSipMg.png)
+![](/pictures/exportdialog.png)
 
 ### Ticket
 Tickets are simple "Post-it" type elements, which can be created by both users
 and the guests that have access to the board. Tickets have content and color,
 they can be moved around the Board freel.
 
-![](https://www.dropbox.com/s/o3uj0aziivmtmxb/ExamplesOfTicket.jpg?dl=1)
+![](/pictures/createticket.png)
 
 Group of tickets on the board
 
@@ -72,7 +72,7 @@ Ticket content supports formatting in markdown for links, images, lists, bold, i
 See the following cheat sheet for more specific [examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-![](http://i.imgur.com/RFz5yDM.png)
+![](/pictures/editedticket.png)
 
 Example of tickets formatted with markdown
 
